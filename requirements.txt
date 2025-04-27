@@ -1,0 +1,7 @@
+beautifulsoup4
+chromadb==1.0.7
+mattsollamatools
+ollama
+python_magic
+Requests
+nltk
